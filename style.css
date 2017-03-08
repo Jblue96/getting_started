@@ -15,5 +15,5 @@ h1 {
 p {
     border: 5px solid yellow;
     outline-style: double;
-    outline-color: red;
+    outline-color: #0000ff;
 }
