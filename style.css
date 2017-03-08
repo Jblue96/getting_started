@@ -1,0 +1,19 @@
+
+
+body {
+top: 6;
+left: 10;
+bottom: 10;
+right: 10;
+}
+
+h1 {
+    font-style: italic;
+    color: blue;
+}
+
+p {
+    border: 5px solid yellow;
+    outline-style: double;
+    outline-color: red;
+}
